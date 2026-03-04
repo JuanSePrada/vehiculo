@@ -31,4 +31,11 @@ public class Vehiculo {
     public void encender() {    
         System.out.println("El vehículo está encendido");
     }
+
+    // Metodo para apagar
+    public void apagar() {
+        System.out.println("El vehículo  se encuentra" + velocidad + " 0 km/h");
+    }
+
+
 }
