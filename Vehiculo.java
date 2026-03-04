@@ -27,4 +27,8 @@ public class Vehiculo {
         velocidad += incremento;
         System.out.println("El vehículo aceleró a " + velocidad + " km/h");
     }
+
+    public void encender() {    
+        System.out.println("El vehículo está encendido");
+    }
 }
