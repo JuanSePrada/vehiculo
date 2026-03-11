@@ -44,4 +44,8 @@ public class Vehiculo {
         System.out.println("El vehículo está encendido");
     }
 
+    // Metodo bajar velocidad
+    public void bajarVelocidad() {
+        System.out.println("El vehículo está bajando velocidad");
+
 }
