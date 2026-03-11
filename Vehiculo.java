@@ -38,4 +38,10 @@ public class Vehiculo {
     }
 
 
+    // Metodo reparar
+
+    public void reparar() {
+        System.out.println("El vehículo está encendido");
+    }
+
 }
